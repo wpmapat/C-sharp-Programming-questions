@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\bin\Debug\FindThenextPerfectSquare.exe.config
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\bin\Debug\FindThenextPerfectSquare.exe
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\bin\Debug\FindThenextPerfectSquare.pdb
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\obj\Debug\FindThenextPerfectSquare.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\obj\Debug\FindThenextPerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\obj\Debug\FindThenextPerfectSquare.exe
+C:\Users\Madhura\source\repos\FindThenextPerfectSquare\FindThenextPerfectSquare\obj\Debug\FindThenextPerfectSquare.pdb

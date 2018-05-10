@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\bin\Debug\SimplePigLatin.exe.config
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\bin\Debug\SimplePigLatin.exe
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\bin\Debug\SimplePigLatin.pdb
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\obj\Debug\SimplePigLatin.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\obj\Debug\SimplePigLatin.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\obj\Debug\SimplePigLatin.exe
+c:\users\madhura\source\repos\SimplePigLatin\SimplePigLatin\obj\Debug\SimplePigLatin.pdb

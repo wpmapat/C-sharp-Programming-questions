@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\bin\Debug\Odd or Even.exe.config
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\bin\Debug\Odd or Even.exe
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\bin\Debug\Odd or Even.pdb
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\obj\Debug\Odd or Even.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\obj\Debug\Odd or Even.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\obj\Debug\Odd or Even.exe
+c:\users\madhura\source\repos\Odd or Even\Odd or Even\obj\Debug\Odd or Even.pdb

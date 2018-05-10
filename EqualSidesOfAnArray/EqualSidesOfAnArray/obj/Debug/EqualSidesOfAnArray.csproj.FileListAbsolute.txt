@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\EqualSidesOfAnArray.exe.config
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\EqualSidesOfAnArray.exe
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\bin\Debug\EqualSidesOfAnArray.pdb
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.exe
+C:\Users\Madhura\source\repos\EqualSidesOfAnArray\EqualSidesOfAnArray\obj\Debug\EqualSidesOfAnArray.pdb

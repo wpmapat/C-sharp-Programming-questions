@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToFindOddOccurrence", "ToFindOddOccurrence\ToFindOddOccurrence.csproj", "{E0F8089C-594A-48E0-AB43-ED8FFB9E42CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F8089C-594A-48E0-AB43-ED8FFB9E42CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F8089C-594A-48E0-AB43-ED8FFB9E42CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F8089C-594A-48E0-AB43-ED8FFB9E42CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F8089C-594A-48E0-AB43-ED8FFB9E42CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8763ADF-1829-43BD-BA58-1AB4318CF646}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.pdb
+C:\Users\Madhura\source\repos\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csprojResolveAssemblyReference.cache

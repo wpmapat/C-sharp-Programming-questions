@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\bin\Debug\OnesandZeros.exe.config
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\bin\Debug\OnesandZeros.exe
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\bin\Debug\OnesandZeros.pdb
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.exe
+C:\Users\Madhura\source\repos\OnesandZeros\OnesandZeros\obj\Debug\OnesandZeros.pdb

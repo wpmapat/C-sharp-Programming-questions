@@ -1,0 +1,6 @@
+C:\Users\Madhura\source\repos\AreTheNumbersInOrder\AreTheNumbersInOrder\bin\Debug\AreTheNumbersInOrder.exe.config
+C:\Users\Madhura\source\repos\AreTheNumbersInOrder\AreTheNumbersInOrder\bin\Debug\AreTheNumbersInOrder.exe
+C:\Users\Madhura\source\repos\AreTheNumbersInOrder\AreTheNumbersInOrder\bin\Debug\AreTheNumbersInOrder.pdb
+C:\Users\Madhura\source\repos\AreTheNumbersInOrder\AreTheNumbersInOrder\obj\Debug\AreTheNumbersInOrder.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\AreTheNumbersInOrder\AreTheNumbersInOrder\obj\Debug\AreTheNumbersInOrder.exe
+C:\Users\Madhura\source\repos\AreTheNumbersInOrder\AreTheNumbersInOrder\obj\Debug\AreTheNumbersInOrder.pdb

@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\bin\Debug\Sum of Whole Numbers.exe.config
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\bin\Debug\Sum of Whole Numbers.exe
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\bin\Debug\Sum of Whole Numbers.pdb
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\obj\Debug\Sum of Whole Numbers.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\obj\Debug\Sum of Whole Numbers.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\obj\Debug\Sum of Whole Numbers.exe
+c:\users\madhura\source\repos\Sum of Whole Numbers\Sum of Whole Numbers\obj\Debug\Sum of Whole Numbers.pdb

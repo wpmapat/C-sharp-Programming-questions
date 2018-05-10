@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\bin\Debug\ListFiltering.exe.config
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\bin\Debug\ListFiltering.exe
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\bin\Debug\ListFiltering.pdb
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\obj\Debug\ListFiltering.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\obj\Debug\ListFiltering.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\obj\Debug\ListFiltering.exe
+C:\Users\Madhura\source\repos\ListFiltering\ListFiltering\obj\Debug\ListFiltering.pdb

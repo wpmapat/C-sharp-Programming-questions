@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreTheNumbersInOrder", "AreTheNumbersInOrder\AreTheNumbersInOrder.csproj", "{CC537F0A-83A6-4D1A-96EF-617F0DC1621B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC537F0A-83A6-4D1A-96EF-617F0DC1621B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC537F0A-83A6-4D1A-96EF-617F0DC1621B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC537F0A-83A6-4D1A-96EF-617F0DC1621B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC537F0A-83A6-4D1A-96EF-617F0DC1621B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DB00086-0473-424C-A087-206B6BBBF3CE}
+	EndGlobalSection
+EndGlobal

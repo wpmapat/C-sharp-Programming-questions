@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\ObjectOrientedPiracy.exe.config
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\ObjectOrientedPiracy.exe
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\ObjectOrientedPiracy.pdb
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\ObjectOrientedPiracy.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\ObjectOrientedPiracy.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\ObjectOrientedPiracy.exe
+C:\Users\Madhura\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\ObjectOrientedPiracy.pdb

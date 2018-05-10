@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\bin\Debug\Myheadatthewrongend.exe.config
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\bin\Debug\Myheadatthewrongend.exe
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\bin\Debug\Myheadatthewrongend.pdb
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\obj\Debug\Myheadatthewrongend.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\obj\Debug\Myheadatthewrongend.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\obj\Debug\Myheadatthewrongend.exe
+C:\Users\Madhura\source\repos\Myheadatthewrongend\Myheadatthewrongend\obj\Debug\Myheadatthewrongend.pdb

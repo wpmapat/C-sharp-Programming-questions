@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\bin\Debug\Count the smiley faces.exe.config
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\bin\Debug\Count the smiley faces.exe
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\bin\Debug\Count the smiley faces.pdb
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\obj\Debug\Count the smiley faces.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\obj\Debug\Count the smiley faces.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\obj\Debug\Count the smiley faces.exe
+C:\Users\Madhura\source\repos\Count the smiley faces\Count the smiley faces\obj\Debug\Count the smiley faces.pdb

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\bin\Debug\SimpleStringExpansion.exe.config
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\bin\Debug\SimpleStringExpansion.exe
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\bin\Debug\SimpleStringExpansion.pdb
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\obj\Debug\SimpleStringExpansion.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\obj\Debug\SimpleStringExpansion.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\obj\Debug\SimpleStringExpansion.exe
+C:\Users\Madhura\source\repos\SimpleStringExpansion\SimpleStringExpansion\obj\Debug\SimpleStringExpansion.pdb

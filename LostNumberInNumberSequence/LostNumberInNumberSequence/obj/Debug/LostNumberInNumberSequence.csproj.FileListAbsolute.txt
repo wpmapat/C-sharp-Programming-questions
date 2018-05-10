@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\bin\Debug\LostNumberInNumberSequence.exe.config
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\bin\Debug\LostNumberInNumberSequence.exe
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\bin\Debug\LostNumberInNumberSequence.pdb
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\obj\Debug\LostNumberInNumberSequence.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\obj\Debug\LostNumberInNumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\obj\Debug\LostNumberInNumberSequence.exe
+C:\Users\Madhura\source\repos\LostNumberInNumberSequence\LostNumberInNumberSequence\obj\Debug\LostNumberInNumberSequence.pdb

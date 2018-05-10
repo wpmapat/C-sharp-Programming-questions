@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\bin\Debug\IsNumberPrime.exe.config
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\bin\Debug\IsNumberPrime.exe
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\bin\Debug\IsNumberPrime.pdb
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\obj\Debug\IsNumberPrime.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\obj\Debug\IsNumberPrime.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\obj\Debug\IsNumberPrime.exe
+C:\Users\Madhura\source\repos\IsNumberPrime\IsNumberPrime\obj\Debug\IsNumberPrime.pdb

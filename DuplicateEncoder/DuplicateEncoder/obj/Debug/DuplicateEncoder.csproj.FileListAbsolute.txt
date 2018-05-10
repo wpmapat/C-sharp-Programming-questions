@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\bin\Debug\DuplicateEncoder.exe.config
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\bin\Debug\DuplicateEncoder.exe
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\bin\Debug\DuplicateEncoder.pdb
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\obj\Debug\DuplicateEncoder.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\obj\Debug\DuplicateEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\obj\Debug\DuplicateEncoder.exe
+C:\Users\Madhura\source\repos\DuplicateEncoder\DuplicateEncoder\obj\Debug\DuplicateEncoder.pdb

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\bin\Debug\Moves in Squared Strings (1).exe.config
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\bin\Debug\Moves in Squared Strings (1).exe
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\bin\Debug\Moves in Squared Strings (1).pdb
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\obj\Debug\Moves in Squared Strings (1).csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\obj\Debug\Moves in Squared Strings (1).csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\obj\Debug\Moves in Squared Strings (1).exe
+C:\Users\Madhura\source\repos\Moves in Squared Strings (1)\Moves in Squared Strings (1)\obj\Debug\Moves in Squared Strings (1).pdb

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\bin\Debug\OppositAttract.exe.config
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\bin\Debug\OppositAttract.exe
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\bin\Debug\OppositAttract.pdb
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\obj\Debug\OppositAttract.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\obj\Debug\OppositAttract.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\obj\Debug\OppositAttract.exe
+C:\Users\Madhura\source\repos\OppositAttract\OppositAttract\obj\Debug\OppositAttract.pdb

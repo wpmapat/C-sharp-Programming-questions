@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\bin\Debug\Longest_Palindrome.exe.config
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\bin\Debug\Longest_Palindrome.exe
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\bin\Debug\Longest_Palindrome.pdb
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\obj\Debug\Longest_Palindrome.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\obj\Debug\Longest_Palindrome.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\obj\Debug\Longest_Palindrome.exe
+c:\users\madhura\source\repos\Longest_Palindrome\Longest_Palindrome\obj\Debug\Longest_Palindrome.pdb

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\obj\Debug\RuntimeCompiler.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\obj\Debug\RuntimeCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\bin\Debug\RuntimeCompiler.exe.config
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\bin\Debug\RuntimeCompiler.exe
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\bin\Debug\RuntimeCompiler.pdb
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\obj\Debug\RuntimeCompiler.exe
+C:\Users\Madhura\source\repos\RuntimeCompiler\RuntimeCompiler\obj\Debug\RuntimeCompiler.pdb

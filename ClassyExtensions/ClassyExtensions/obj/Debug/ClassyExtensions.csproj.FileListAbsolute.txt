@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\bin\Debug\ClassyExtensions.exe.config
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\bin\Debug\ClassyExtensions.exe
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\bin\Debug\ClassyExtensions.pdb
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\obj\Debug\ClassyExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\obj\Debug\ClassyExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\obj\Debug\ClassyExtensions.exe
+C:\Users\Madhura\source\repos\ClassyExtensions\ClassyExtensions\obj\Debug\ClassyExtensions.pdb

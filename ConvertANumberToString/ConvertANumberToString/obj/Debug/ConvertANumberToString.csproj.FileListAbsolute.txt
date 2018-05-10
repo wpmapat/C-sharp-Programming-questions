@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\obj\Debug\ConvertANumberToString.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\obj\Debug\ConvertANumberToString.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\bin\Debug\ConvertANumberToString.exe.config
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\bin\Debug\ConvertANumberToString.exe
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\bin\Debug\ConvertANumberToString.pdb
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\obj\Debug\ConvertANumberToString.exe
+c:\users\madhura\source\repos\ConvertANumberToString\ConvertANumberToString\obj\Debug\ConvertANumberToString.pdb

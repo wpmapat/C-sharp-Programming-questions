@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.exe.config
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.exe
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\bin\Debug\FindTheParityOutlier.pdb
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.exe
+C:\Users\Madhura\source\repos\FindTheParityOutlier\FindTheParityOutlier\obj\Debug\FindTheParityOutlier.pdb

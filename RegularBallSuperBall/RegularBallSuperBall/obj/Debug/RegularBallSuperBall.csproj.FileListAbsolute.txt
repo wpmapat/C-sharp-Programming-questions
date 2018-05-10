@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\bin\Debug\RegularBallSuperBall.exe.config
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\bin\Debug\RegularBallSuperBall.exe
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\bin\Debug\RegularBallSuperBall.pdb
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\obj\Debug\RegularBallSuperBall.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\obj\Debug\RegularBallSuperBall.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\obj\Debug\RegularBallSuperBall.exe
+C:\Users\Madhura\source\repos\RegularBallSuperBall\RegularBallSuperBall\obj\Debug\RegularBallSuperBall.pdb

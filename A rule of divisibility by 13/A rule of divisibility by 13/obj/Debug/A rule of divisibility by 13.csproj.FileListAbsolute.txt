@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\obj\Debug\A rule of divisibility by 13.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\obj\Debug\A rule of divisibility by 13.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\bin\Debug\A rule of divisibility by 13.exe.config
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\bin\Debug\A rule of divisibility by 13.exe
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\bin\Debug\A rule of divisibility by 13.pdb
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\obj\Debug\A rule of divisibility by 13.exe
+C:\Users\Madhura\source\repos\A rule of divisibility by 13\A rule of divisibility by 13\obj\Debug\A rule of divisibility by 13.pdb

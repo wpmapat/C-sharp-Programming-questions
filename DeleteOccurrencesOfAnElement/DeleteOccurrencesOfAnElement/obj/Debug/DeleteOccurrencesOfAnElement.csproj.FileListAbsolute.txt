@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\bin\Debug\DeleteOccurrencesOfAnElement.exe.config
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\bin\Debug\DeleteOccurrencesOfAnElement.exe
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\bin\Debug\DeleteOccurrencesOfAnElement.pdb
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\obj\Debug\DeleteOccurrencesOfAnElement.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\obj\Debug\DeleteOccurrencesOfAnElement.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\obj\Debug\DeleteOccurrencesOfAnElement.exe
+C:\Users\Madhura\source\repos\DeleteOccurrencesOfAnElement\DeleteOccurrencesOfAnElement\obj\Debug\DeleteOccurrencesOfAnElement.pdb

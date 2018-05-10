@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\bin\Debug\YourOrderPlease.exe.config
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\bin\Debug\YourOrderPlease.exe
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\bin\Debug\YourOrderPlease.pdb
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.exe
+c:\users\madhura\source\repos\YourOrderPlease\YourOrderPlease\obj\Debug\YourOrderPlease.pdb

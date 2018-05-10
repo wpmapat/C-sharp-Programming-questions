@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\bin\Debug\DoIGetABonus.exe.config
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\bin\Debug\DoIGetABonus.exe
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\bin\Debug\DoIGetABonus.pdb
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\obj\Debug\DoIGetABonus.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\obj\Debug\DoIGetABonus.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\obj\Debug\DoIGetABonus.exe
+c:\users\madhura\source\repos\DoIGetABonus\DoIGetABonus\obj\Debug\DoIGetABonus.pdb

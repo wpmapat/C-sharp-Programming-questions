@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\obj\Debug\MovingZeroesTotheEnd.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\obj\Debug\MovingZeroesTotheEnd.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\bin\Debug\MovingZeroesTotheEnd.exe.config
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\bin\Debug\MovingZeroesTotheEnd.exe
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\bin\Debug\MovingZeroesTotheEnd.pdb
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\obj\Debug\MovingZeroesTotheEnd.exe
+C:\Users\Madhura\source\repos\MovingZeroesTotheEnd\MovingZeroesTotheEnd\obj\Debug\MovingZeroesTotheEnd.pdb

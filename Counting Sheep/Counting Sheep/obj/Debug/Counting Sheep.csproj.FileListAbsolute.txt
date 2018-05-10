@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\bin\Debug\Counting Sheep.exe.config
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\bin\Debug\Counting Sheep.exe
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\bin\Debug\Counting Sheep.pdb
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\obj\Debug\Counting Sheep.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\obj\Debug\Counting Sheep.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\obj\Debug\Counting Sheep.exe
+c:\users\madhura\source\repos\Counting Sheep\Counting Sheep\obj\Debug\Counting Sheep.pdb

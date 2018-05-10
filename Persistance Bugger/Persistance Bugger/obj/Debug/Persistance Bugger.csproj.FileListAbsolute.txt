@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\obj\Debug\Persistance Bugger.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\obj\Debug\Persistance Bugger.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\bin\Debug\Persistance Bugger.exe.config
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\bin\Debug\Persistance Bugger.exe
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\bin\Debug\Persistance Bugger.pdb
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\obj\Debug\Persistance Bugger.exe
+C:\Users\Madhura\source\repos\Persistance Bugger\Persistance Bugger\obj\Debug\Persistance Bugger.pdb

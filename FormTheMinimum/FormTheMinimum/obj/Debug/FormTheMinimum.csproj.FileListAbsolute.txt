@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\bin\Debug\FormTheMinimum.exe.config
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\bin\Debug\FormTheMinimum.exe
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\bin\Debug\FormTheMinimum.pdb
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\obj\Debug\FormTheMinimum.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\obj\Debug\FormTheMinimum.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\obj\Debug\FormTheMinimum.exe
+C:\Users\Madhura\source\repos\FormTheMinimum\FormTheMinimum\obj\Debug\FormTheMinimum.pdb

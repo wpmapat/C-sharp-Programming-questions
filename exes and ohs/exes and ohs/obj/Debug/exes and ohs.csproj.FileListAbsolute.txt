@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\bin\Debug\exes and ohs.exe.config
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\bin\Debug\exes and ohs.exe
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\bin\Debug\exes and ohs.pdb
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\obj\Debug\exes and ohs.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\obj\Debug\exes and ohs.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\obj\Debug\exes and ohs.exe
+c:\users\madhura\source\repos\exes and ohs\exes and ohs\obj\Debug\exes and ohs.pdb

@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\bin\Debug\SplitTheString.exe.config
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\bin\Debug\SplitTheString.exe
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\bin\Debug\SplitTheString.pdb
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\obj\Debug\SplitTheString.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\obj\Debug\SplitTheString.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\obj\Debug\SplitTheString.exe
+c:\users\madhura\source\repos\SplitTheString\SplitTheString\obj\Debug\SplitTheString.pdb

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\obj\Debug\TheSuperMarketQueue.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\obj\Debug\TheSuperMarketQueue.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\bin\Debug\TheSuperMarketQueue.exe.config
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\bin\Debug\TheSuperMarketQueue.exe
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\bin\Debug\TheSuperMarketQueue.pdb
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\obj\Debug\TheSuperMarketQueue.exe
+C:\Users\Madhura\source\repos\TheSuperMarketQueue\TheSuperMarketQueue\obj\Debug\TheSuperMarketQueue.pdb

@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\bin\Debug\AnimalsandInheritance.exe.config
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\bin\Debug\AnimalsandInheritance.exe
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\bin\Debug\AnimalsandInheritance.pdb
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\obj\Debug\AnimalsandInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\obj\Debug\AnimalsandInheritance.exe
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\obj\Debug\AnimalsandInheritance.pdb
+C:\Users\Madhura\source\repos\AnimalsandInheritance\AnimalsandInheritance\obj\Debug\AnimalsandInheritance.csprojResolveAssemblyReference.cache

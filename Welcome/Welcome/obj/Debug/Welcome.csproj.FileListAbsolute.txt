@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\Welcome\Welcome\bin\Debug\Welcome.exe.config
+C:\Users\Madhura\source\repos\Welcome\Welcome\bin\Debug\Welcome.exe
+C:\Users\Madhura\source\repos\Welcome\Welcome\bin\Debug\Welcome.pdb
+C:\Users\Madhura\source\repos\Welcome\Welcome\obj\Debug\Welcome.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\Welcome\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\Welcome\Welcome\obj\Debug\Welcome.exe
+C:\Users\Madhura\source\repos\Welcome\Welcome\obj\Debug\Welcome.pdb

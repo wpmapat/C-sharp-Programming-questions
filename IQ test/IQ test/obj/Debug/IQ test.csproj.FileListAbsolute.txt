@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\IQ test\IQ test\bin\Debug\IQ test.exe.config
+C:\Users\Madhura\source\repos\IQ test\IQ test\bin\Debug\IQ test.exe
+C:\Users\Madhura\source\repos\IQ test\IQ test\bin\Debug\IQ test.pdb
+C:\Users\Madhura\source\repos\IQ test\IQ test\obj\Debug\IQ test.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\IQ test\IQ test\obj\Debug\IQ test.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\IQ test\IQ test\obj\Debug\IQ test.exe
+C:\Users\Madhura\source\repos\IQ test\IQ test\obj\Debug\IQ test.pdb

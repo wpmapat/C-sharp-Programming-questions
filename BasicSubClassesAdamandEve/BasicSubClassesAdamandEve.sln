@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicSubClassesAdamandEve", "BasicSubClassesAdamandEve\BasicSubClassesAdamandEve.csproj", "{7F38930A-0EDC-4F80-80AE-791738750552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F38930A-0EDC-4F80-80AE-791738750552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F38930A-0EDC-4F80-80AE-791738750552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F38930A-0EDC-4F80-80AE-791738750552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F38930A-0EDC-4F80-80AE-791738750552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D026AF5F-3CE4-4926-A087-551756AA954F}
+	EndGlobalSection
+EndGlobal

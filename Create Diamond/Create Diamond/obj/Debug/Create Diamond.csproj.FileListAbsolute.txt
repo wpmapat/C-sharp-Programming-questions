@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\bin\Debug\Create Diamond.exe.config
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\bin\Debug\Create Diamond.exe
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\bin\Debug\Create Diamond.pdb
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\obj\Debug\Create Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\obj\Debug\Create Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\obj\Debug\Create Diamond.exe
+C:\Users\Madhura\source\repos\Create Diamond\Create Diamond\obj\Debug\Create Diamond.pdb

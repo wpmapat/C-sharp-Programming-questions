@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\bin\Debug\summing a number's digit.exe.config
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\bin\Debug\summing a number's digit.exe
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\bin\Debug\summing a number's digit.pdb
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\obj\Debug\summing a number's digit.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\obj\Debug\summing a number's digit.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\obj\Debug\summing a number's digit.exe
+C:\Users\Madhura\source\repos\summing a number's digit\summing a number's digit\obj\Debug\summing a number's digit.pdb

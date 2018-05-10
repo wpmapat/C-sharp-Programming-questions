@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\bin\Debug\StopSpinningMyWords.exe.config
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\bin\Debug\StopSpinningMyWords.exe
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\bin\Debug\StopSpinningMyWords.pdb
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.exe
+C:\Users\Madhura\source\repos\StopSpinningMyWords\StopSpinningMyWords\obj\Debug\StopSpinningMyWords.pdb

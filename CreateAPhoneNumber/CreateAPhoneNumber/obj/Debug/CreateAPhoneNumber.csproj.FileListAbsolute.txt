@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\bin\Debug\CreateAPhoneNumber.exe.config
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\bin\Debug\CreateAPhoneNumber.exe
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\bin\Debug\CreateAPhoneNumber.pdb
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\obj\Debug\CreateAPhoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\obj\Debug\CreateAPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\obj\Debug\CreateAPhoneNumber.exe
+C:\Users\Madhura\source\repos\CreateAPhoneNumber\CreateAPhoneNumber\obj\Debug\CreateAPhoneNumber.pdb

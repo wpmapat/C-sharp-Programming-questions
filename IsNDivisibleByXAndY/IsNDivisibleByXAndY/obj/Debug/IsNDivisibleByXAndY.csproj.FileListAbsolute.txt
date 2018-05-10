@@ -1,0 +1,7 @@
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\bin\Debug\IsNDivisibleByXAndY.exe.config
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\bin\Debug\IsNDivisibleByXAndY.exe
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\bin\Debug\IsNDivisibleByXAndY.pdb
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\obj\Debug\IsNDivisibleByXAndY.csprojResolveAssemblyReference.cache
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\obj\Debug\IsNDivisibleByXAndY.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\obj\Debug\IsNDivisibleByXAndY.exe
+C:\Users\Madhura\source\repos\IsNDivisibleByXAndY\IsNDivisibleByXAndY\obj\Debug\IsNDivisibleByXAndY.pdb

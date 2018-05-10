@@ -1,0 +1,6 @@
+C:\Users\Madhura\source\repos\RemoveStringSpaces\RemoveStringSpaces\bin\Debug\RemoveStringSpaces.exe.config
+C:\Users\Madhura\source\repos\RemoveStringSpaces\RemoveStringSpaces\bin\Debug\RemoveStringSpaces.exe
+C:\Users\Madhura\source\repos\RemoveStringSpaces\RemoveStringSpaces\bin\Debug\RemoveStringSpaces.pdb
+C:\Users\Madhura\source\repos\RemoveStringSpaces\RemoveStringSpaces\obj\Debug\RemoveStringSpaces.csproj.CoreCompileInputs.cache
+C:\Users\Madhura\source\repos\RemoveStringSpaces\RemoveStringSpaces\obj\Debug\RemoveStringSpaces.exe
+C:\Users\Madhura\source\repos\RemoveStringSpaces\RemoveStringSpaces\obj\Debug\RemoveStringSpaces.pdb

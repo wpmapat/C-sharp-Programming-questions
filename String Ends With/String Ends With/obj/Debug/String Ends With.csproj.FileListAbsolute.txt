@@ -1,0 +1,7 @@
+c:\users\madhura\source\repos\String Ends With\String Ends With\bin\Debug\String Ends With.exe.config
+c:\users\madhura\source\repos\String Ends With\String Ends With\bin\Debug\String Ends With.exe
+c:\users\madhura\source\repos\String Ends With\String Ends With\bin\Debug\String Ends With.pdb
+c:\users\madhura\source\repos\String Ends With\String Ends With\obj\Debug\String Ends With.csprojResolveAssemblyReference.cache
+c:\users\madhura\source\repos\String Ends With\String Ends With\obj\Debug\String Ends With.csproj.CoreCompileInputs.cache
+c:\users\madhura\source\repos\String Ends With\String Ends With\obj\Debug\String Ends With.exe
+c:\users\madhura\source\repos\String Ends With\String Ends With\obj\Debug\String Ends With.pdb
